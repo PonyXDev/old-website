@@ -24,6 +24,12 @@ You can open a "pull request" to this repository and submit your changes to help
 
 ### ⚖️ License.
 
+> Starting from 17/02/2022, We will be requiring users to have the following code in their `index.html/meta`. This code will come preinstalled on this PonyX Instance.
+```
+<meta name="publisher" content="2022, PonyX" />
+<meta name="author" content="PonyX", "sistem@ponyxdev.xyz">
+```
+
 Important! "Licensed with GPL-3.0 License! Please read the LICENSE.md before distribution!"
 
 ### 📩 Installation.
